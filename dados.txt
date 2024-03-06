@@ -1,0 +1,17 @@
+Dados do aluno
+
+-Primeiro Nome:
+Nilson Martin 
+-Profissão:
+Estudante 
+-Cidade:Maputo
+-O que faz nas horas vaga:
+Estudar criação de VSL e lading page.
+-Feedback sobre a disciplina Teste e Qualidade de Software:
+Ainda não tive oportunidade de avaliar corretamente.
+-Feedback sobre a metodologia das aulas da disciplina:
+Ainda não tive oportunidade de avaliar corretamente.
+
+Obrigado!!!
+
+
